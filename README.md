@@ -14,4 +14,4 @@ While executing this project, I learned about Extract, Transform and Load (ETL) 
 * Top 5 Products of 2021
 * New Products that were sold in 2021
 
-Thank you Codebasics, Dhaval sir and Hemanand sir for the guidance via the bootcamp.
+Thank you Team Codebasics, Dhaval sir and Hemanand sir for the guidance via the bootcamp.
