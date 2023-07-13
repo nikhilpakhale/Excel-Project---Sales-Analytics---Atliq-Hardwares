@@ -2,9 +2,9 @@ Sales Analysis and Reports of Atliq Hardware (hypothetical electronics manufactu
 
 While executing this project, I learned about Extract, Transform and Load (ETL) process using Power Query, Data Processing, Data Modeling using Power Pivot, Data Analysis using DAX and Data Visualization.
 
-**Objective:** Atliq hardware requires multiple business reports for their senior level business decisions and they have provided multiple Excel files for analysis and extracting reports from the same. 
+**Objective:** Atliq hardware requires multiple business reports for their senior level business decisions and they have provided multiple Excel files for analysis and generating reports from the same. 
 
-**Reports extracted:**
+**Reports generated:**
 
 * Customer Net Sales Performance
 * Market Performance vs Target
